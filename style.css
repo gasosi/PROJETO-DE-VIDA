@@ -32,5 +32,9 @@ font-size: 32px;
     color: var(--verde);
 }
 .botao{
-    font-family: "cra";
+    font-family: "Crakra Petch", sans-serif;
+    background-color: var(--botao-inativo);
+    display: flex;
+    
+
 }
